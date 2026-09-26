@@ -1,4 +1,4 @@
-# MLaaS Collaborative Composition Experiment
+# Collaborative AIaaS Composition Dataset Experiment
 
 This is a minimal reviewer-facing package. It contains only the files needed to
 understand the dataset, the final collaborative service requests, the benchmark
